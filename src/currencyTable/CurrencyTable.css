@@ -1,0 +1,19 @@
+.CurrencyTable__toolbar {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.AddCurrency {
+  display: flex;
+}
+
+.AddCurrency__button {
+  margin-left: 1em;
+}
+
+.CurrencyTable {
+  width: 75vw;
+  margin: auto;
+  margin-top: 2rem;
+}
